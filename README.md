@@ -8,11 +8,21 @@
 #### Technical Infrastructure:
 Constructed with React, NodeJS, ExpressJS, and MongoDB, the platform embodies the principles of open-source development. It advocates for open licensing through the CC-BY license on GitHub, encouraging content distribution, modification, and wider accessibility.
 
-#### Internship Focus:
-The appointed intern will focus on creating an intuitive administrative interface for the platform. This interface will streamline the content management process, enabling contributors, irrespective of their technical prowess, to effortlessly upload and collaborate on educational content.
+#### Internship Focus and Expected Outcomes:
+The appointed intern will focus on creating an intuitive administrative interface for the platform. This interface will streamline the content management process, enabling contributors, irrespective of their technical prowess, to effortlessly upload and collaborate on educational content. The successful completion will result in an admin panel that is both powerful and easy to use, significantly improving content management and user engagement.
 
-#### Required Expertise:
-Applicants should have a robust background in web development, with a strong emphasis on user experience design principles.
+#### Skills and Technology:
+- Proficiency in React, NodeJS, ExpressJS, MongoDB
+- Strong grasp of UX/UI design principles
+- Familiarity with open-source contribution and Git workflows
+
+#### Possible Mentors:
+Batool Almarzouq (BatoolMM)
+
+#### Project Size and Difficulty:
+- 175 hours
+- Intermediate difficulty, suitable for individuals with some experience in web development and a keen interest in open-source projects.
+
 
 ## Project 2: Localisation of the Turing Way into Multiple Languages
 
@@ -23,5 +33,19 @@ Applicants should have a robust background in web development, with a strong emp
 A specialised working group underpins this localisation effort, promoting inclusivity and sustained engagement. The group prioritises governance and technical integration, building a cooperative atmosphere for international contributors.
 
 #### Internship Role:
-The intern will concentrate on improving the digital infrastructure to facilitate efficient localisation workflows. This includes enhancing documentation and creating tools to facilitate multi-deployment. This work will link closely with efforts to establish a robust governance strategy and bolster community engagement within the localisation process. It aims to streamline the deployment of translations, ensuring a cohesive workflow across different languages.
+The intern will concentrate on improving the digital infrastructure to facilitate efficient localisation workflows. This includes creating tools to facilitate multi-deployment of the book in multiple languages. The bbok is built using JupyterBook and localised using Crowdin but the tramslated versions aren't yet deplyed. This work will link closely with efforts to establish a robust governance strategy and community engagement within the localisation process. It aims to streamline the deployment of translations, ensuring a cohesive workflow across different languages.
+
+#### Expected Outcomes:
+The project will result in The Turing Way being multi-deploed in multiple languages, making it a truly global resource. This will enhance its usability and reach, inviting contributions from non-English speakers.
+
+#### Skills and Technology:
+- Knowledge of GitHub and collaborative online work environments
+- Knowledge in JupyterBook and Netlify
+
+#### Possible Mentors:
+Batool Almarzouq (BatoolMM)
+
+#### Project Size and Difficulty:
+- 90 hours.
+- Easy to intermediate difficulty, ideal for individuals passionate about language, community engagement, and data science.
 
